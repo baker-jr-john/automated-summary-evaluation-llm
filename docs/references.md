@@ -42,8 +42,6 @@ Liu, Y., Iter, D., Xu, Y., Wang, S., Xu, R., & Zhu, C. (2023). G-Eval: NLG evalu
 
 Lynam, S., & Cachia, M. (2018). Students’ perceptions of the role of assessments in higher education. *Assessment & Evaluation in Higher Education, 43*(2), 223–234. https://doi.org/10.1080/02602938.2017.1339772
 
-McHugh, M. L. (2012). Interrater reliability: The kappa statistic. *Biochemia Medica, 22*(3), 276–282. https://doi.org/10.11613/BM.2012.031
-
 Meyer, J., Jansen, T., Schiller, R., Liebenow, L. W., Steinbach, M., Horbach, A., & Fleckenstein, J. (2024). Using LLMs to bring evidence-based feedback into the classroom: AI-generated feedback increases secondary students’ text revision, motivation, and positive emotions. *Computers & Education: Artificial Intelligence, 6*, 100199. https://doi.org/10.1016/j.caeai.2024.100199
 
 Meta. (2024). *Introducing Llama 3.1: Advancing open foundation models.* https://ai.meta.com/llama/
