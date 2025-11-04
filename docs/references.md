@@ -1,6 +1,6 @@
 # 📚 References
 
-Andrade, H. G. (2001). *The effects of instructional rubrics on learning to write.* Current Issues in Education, 4.
+Andrade, H. G. (2001). *The effects of instructional rubrics on learning to write.* Current Issues in Education, 4. https://cie.asu.edu/ojs/index.php/cieatasu/article/view/1630
 
 Andrade, H. G., & Boulay, B. A. (2003). Role of rubric-referenced self-assessment in learning to write. *The Journal of Educational Research, 97*(1), 21–30. https://doi.org/10.1080/00220670309596625
 
@@ -8,9 +8,9 @@ Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of sch
 
 Bell, C., James, J., Taylor, E. S., & Wyckoff, J. (2023). *Measuring returns to experience using supervisor ratings of observed performance: The case of classroom teachers* (EdWorkingPaper No. 23-715). Annenberg Institute for School Reform at Brown University. https://doi.org/10.26300/9abf-tk90
 
-Benedetto, L., Aradelli, G., Donvito, A., Lucchetti, A., Cappelli, A., & Buttery, P. (2024, November). Using LLMs to simulate students’ responses to exam questions. In *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 11351–11368).
+Benedetto, L., Aradelli, G., Donvito, A., Lucchetti, A., Cappelli, A., & Buttery, P. (2024, November). Using LLMs to simulate students’ responses to exam questions. In *Findings of the Association for Computational Linguistics: EMNLP 2024* (pp. 11351–11368). https://doi.org/10.18653/v1/2024.findings-emnlp.663
 
-Blatchford, P., & Catchpole, G. (2003). Class size and classroom processes. In *International Handbook of Educational Research in the Asia-Pacific Region* (pp. 741–754). Dordrecht: Springer Netherlands.
+Blatchford, P., & Catchpole, G. (2003). Class size and classroom processes. In *International Handbook of Educational Research in the Asia-Pacific Region* (pp. 741–754). Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-017-3368-7_51
 
 Chamieh, I., Zesch, T., & Giebermann, K. (2024, June). LLMs in short answer scoring: Limitations and promise of zero-shot and few-shot approaches. In *Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024)* (pp. 309–315).
 
