@@ -20,8 +20,6 @@ Cohen, E. G., Lotan, R. A., Abram, P. L., Scarloss, B. A., & Schultz, S. E. (200
 
 EdWeek Research Center. (2022). *1st annual Merrimack College Teacher Survey: 2022 results.* https://fs24.formsite.com/edweek/images/WP-Merrimack_College-Todays_Teachers_Are_Deeply_Disillusioned_Survey_Data_Confirms.pdf
 
-Fleckenstein, J., Meyer, J., Schiller, R., Liebenow, L. W., & Horbach, A. (2023). *Meta-analysis on automated feedback in writing instruction.* *Computers & Education: Artificial Intelligence, 6*, 100199. https://doi.org/10.1016/j.caeai.2023.100199
-
 Garcia-Alcoser, M. E., GhojoghNejad, M., Tushar, F. I., Kim, D., Lafata, K. J., Rubin, G. D., & Lo, J. Y. (2025). Evaluating large language models for zero-shot disease labeling in CT radiology reports across organ systems. *arXiv preprint arXiv:2506.03259.*
 
 Graham, S., Bruch, J., Fitzgerald, J., Friedrich, L., Furgeson, J., Greene, K., Kim, J., Lyskawa, J., Olson, C. B., & Smither Wulsin, C. (2016). *Teaching secondary students to write effectively (NCEE 2017-4002).* Institute of Education Sciences, U.S. Department of Education.
