@@ -130,7 +130,7 @@ Key sources include:
 ## 🧑‍💻 Author
 **John Baker**  
 Graduate Student, Learning Analytics & AI – University of Pennsylvania   
-📍 Hudson Valley, NY  |  📧 [jbaker!@upenn.edu]  
+📍 Hudson Valley, NY  |  📧 [jbaker1@upenn.edu]  
 
 ---
 
