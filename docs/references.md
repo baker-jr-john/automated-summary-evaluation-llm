@@ -54,7 +54,7 @@ Sadler, P. M., & Good, E. (2006). The impact of self- and peer-grading on studen
 
 Shibata, T., & Miyamura, Y. (2025). LCES: Zero-shot automated essay scoring via pairwise comparisons using large language models. *arXiv preprint arXiv:2505.08498.*
 
-U.S. Department of Education. (2023). *Artificial intelligence and the future of teaching and learning.* Office of Educational Technology. https://tech.ed.gov/ai/
+U.S. Department of Education. (2023). *Artificial intelligence and the future of teaching and learning.* Office of Educational Technology. https://www.ed.gov/media/document/ai-reportpdf-43861.pdf
 
 U.S. Department of Education, National Center for Education Statistics. (n.d.). *Average class size in public K–12 schools, by school level, class type, and state: 2020–21.* https://nces.ed.gov/surveys/ntps/estable/table/ntps/ntps2021_sflt07_t1s
 
