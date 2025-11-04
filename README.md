@@ -18,15 +18,10 @@
     <img src="https://img.shields.io/badge/Open%20in%20Colab-%230077B5.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open in Colab" />
   </a>
   &nbsp;
-  <a href="https://github.com/johnbaker/automated-summary-evaluation-llm">
+  <a href="https://github.com/baker-jr-john/automated-summary-evaluation-llm.git">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub" />
   </a>
 </p>
-
----
-
-# Automated Summary Evaluation with Rubric-Based AI Feedback  
-### A Proof-of-Concept Implementation Using Meta Llama 3.1 8B on Google Colab  
 
 ---
 
