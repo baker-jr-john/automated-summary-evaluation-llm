@@ -152,7 +152,7 @@ Key sources include:
 ## 🧑‍💻 Author
 **John Baker**  
 Graduate Student, Learning Analytics & AI – University of Pennsylvania   
-📍 Hudson Valley, NY  |  📧 jbaker1@upenn.edu  
+📍 New York City Metropolitan Area  |  📧 jbaker1@upenn.edu  
 
 ---
 
