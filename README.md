@@ -165,7 +165,7 @@ Graduate Student, Learning Analytics & AI – University of Pennsylvania
 ## 💡 Citation
 If you reference this work in research or coursework, please cite as:
 
-> Baker, J. (2025). *Automated Summary Evaluation with Rubric-Based AI Feedback: A Proof-of-Concept Implementation Using Meta Llama 3.1 8B.* University of Pennsylvania, Graduate School of Education. GitHub: https://github.com/johnbaker/automated-summary-evaluation-llm
+> Baker, J. (2025). *Automated Summary Evaluation with Rubric-Based AI Feedback: A Proof-of-Concept Implementation Using Meta Llama 3.1 8B.* University of Pennsylvania, Graduate School of Education. GitHub: [https://github.com/johnbaker/automated-summary-evaluation-llm](https://github.com/baker-jr-john/automated-summary-evaluation-llm.git)
 
 ---
 
