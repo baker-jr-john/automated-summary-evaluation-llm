@@ -44,8 +44,6 @@ Lynam, S., & Cachia, M. (2018). Students’ perceptions of the role of assessmen
 
 Meyer, J., Jansen, T., Schiller, R., Liebenow, L. W., Steinbach, M., Horbach, A., & Fleckenstein, J. (2024). Using LLMs to bring evidence-based feedback into the classroom: AI-generated feedback increases secondary students’ text revision, motivation, and positive emotions. *Computers & Education: Artificial Intelligence, 6*, 100199. https://doi.org/10.1016/j.caeai.2024.100199
 
-Meta. (2024). *Introducing Llama 3.1: Advancing open foundation models.* https://ai.meta.com/llama/
-
 Parikh, N., Fernandez, N., Scarlatos, A., Woodhead, S., & Lan, A. (2025). LookAlike: Consistent distractor generation in math MCQs. *arXiv preprint arXiv:2505.01903.*
 
 Quitadamo, I. J., & Kurtz, M. J. (2007). Learning to improve: Using writing to increase critical thinking performance in general education biology. *CBE—Life Sciences Education, 6*(2), 140–154. https://doi.org/10.1187/cbe.06-11-0203
