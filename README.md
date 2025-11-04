@@ -1,3 +1,30 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Google%20Colab-blue?logo=googlecolab&logoColor=white" alt="Platform: Google Colab" />
+  <img src="https://img.shields.io/badge/Model-Meta%20Llama%203.1%208B-9cf?logo=meta&logoColor=white" alt="Model: Meta Llama 3.1 8B" />
+  <img src="https://img.shields.io/badge/Framework-Hugging%20Face%20Transformers-yellow?logo=huggingface&logoColor=white" alt="Framework: Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
+</p>
+
+<h1 align="center">🤖 Automated Summary Evaluation with Rubric-Based AI Feedback</h1>
+<h3 align="center">A Proof-of-Concept Implementation Using Meta Llama 3.1 8B on Google Colab</h3>
+
+<p align="center">
+  <em>AI-assisted formative feedback for middle-school writing — open-source, transparent, and teacher-guided.</em>
+</p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Open%20in%20Colab-%230077B5.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open in Colab" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/johnbaker/automated-summary-evaluation-llm">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub" />
+  </a>
+</p>
+
+---
+
 # Automated Summary Evaluation with Rubric-Based AI Feedback  
 ### A Proof-of-Concept Implementation Using Meta Llama 3.1 8B on Google Colab  
 
