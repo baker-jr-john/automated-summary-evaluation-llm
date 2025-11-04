@@ -79,7 +79,7 @@ The system produces JSON-structured outputs with per-dimension scores, reasoning
 ## 🔬 Validation Design
 **Dataset (n = 60)**  
 - ~60 summaries (authentic + synthetic) across quality levels.  
-- Authentic samples from the **ASAP** writing corpus; synthetic samples generated using **GPT-4o-Mini** to simulate learner-like error patterns.  
+- Authentic samples from the [**ASAP 2.0: Automated Student Assessment Prize**](https://www.kaggle.com/datasets/lburleigh/asap-2-0) writing corpus; synthetic samples generated using **GPT-4o-Mini** to simulate learner-like error patterns.  
 
 **Validation Process**  
 1. Calibration and consistency checks by a trained human rater.  
@@ -95,7 +95,7 @@ Substantial AI–human agreement demonstrating technical feasibility for formati
 ## 🧰 Repository Contents
 | File / Folder | Description |
 |----------------|-------------|
-| `automated_summary_evaluation_llama3_rubric_feedback_colab.ipynb` | Main Jupyter Notebook with full pipeline implementation |
+| `automated_summary_evaluation_llm_rubric_feedback.ipynb` | Main Jupyter Notebook with full pipeline implementation |
 | `data/` | Example source texts and student summaries (de-identified) |
 | `rubrics/` | Four-dimension evaluation rubric and behavioral anchors |
 | `docs/` | Project report, validation tables, and system diagrams |
