@@ -58,7 +58,7 @@ U.S. Department of Education. (2023). *Artificial intelligence and the future of
 
 U.S. Department of Education, National Center for Education Statistics. (n.d.). *Average class size in public K–12 schools, by school level, class type, and state: 2020–21.* https://nces.ed.gov/surveys/ntps/estable/table/ntps/ntps2021_sflt07_t1s
 
-van Helvoort, J. (2010). A scoring rubric for performance assessment of information literacy in Dutch higher education. *Journal of Information Literacy, 4*(1). https://doi.org/10.11645/4.1.1449
+van Helvoort, J. (2010). A scoring rubric for performance assessment of information literacy in Dutch higher education. *Journal of Information Literacy, 4*(1). https://doi.org/10.11645/4.1.1256
 
 Voelkel, S., Varga-Atkins, T., & Mello, L. V. (2020). Students tell us what good written feedback looks like. *FEBS Open Bio, 10*(5), 692–706. https://doi.org/10.1002/2211-5463.12840
 
