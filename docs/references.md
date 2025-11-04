@@ -16,7 +16,7 @@ Chamieh, I., Zesch, T., & Giebermann, K. (2024, June). LLMs in short answer scor
 
 Cohen, C., Hutchins, N., Le, T., & Biswas, G. (2024). A chain-of-thought prompting approach with LLMs for evaluating students’ formative assessment responses in science. *arXiv preprint arXiv:2403.14565.*
 
-Cohen, E. G., Lotan, R. A., Abram, P. L., Scarloss, B. A., & Schultz, S. E. (2002). Can groups learn? *Teachers College Record, 104*(6), 1045–1068. https://doi.org/10.1111/1467-9620.00199
+Cohen, E. G., Lotan, R. A., Abram, P. L., Scarloss, B. A., & Schultz, S. E. (2002). Can groups learn? *Teachers College Record, 104*(6), 1045–1068. https://doi.org/10.1111/1467-9620.00196
 
 EdWeek Research Center. (2022). *1st annual Merrimack College Teacher Survey: 2022 results.* https://fs24.formsite.com/edweek/images/WP-Merrimack_College-Todays_Teachers_Are_Deeply_Disillusioned_Survey_Data_Confirms.pdf
 
