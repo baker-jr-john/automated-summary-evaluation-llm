@@ -80,12 +80,16 @@ Substantial AI–human agreement demonstrating technical feasibility for formati
 ---
 
 ## 🧰 Repository Contents
-| File / Folder | Description |
-|----------------|-------------|
-| `automated_summary_evaluation_llm_rubric_feedback.ipynb` | Main Jupyter Notebook with full pipeline implementation |
-| `data/` | Example source texts and student summaries (de-identified) |
-| `rubrics/` | Four-dimension evaluation rubric and behavioral anchors |
-| `docs/` | Project report, validation tables, and system diagrams |
+| File / Folder | Description |                                                                                                                          
+|----------------|-------------|                                                                                                                         
+| `01_Data_Synthesis_and_Prep.ipynb` | Loads and explores the ASAP 2.0 dataset; prepares the validation dataset including synthetic summary generation | 
+| `02_Calibration_Tools.ipynb` | Selects the calibration subset and generates a benchmark scoring answer key to support rater calibration |
+| `03_Llama_Inference.ipynb` | Runs the Llama 3.1 8B inference pipeline for automated summary evaluation |                                               
+| `04_LLM_Evaluation_Results.ipynb` | Analyzes evaluation outputs and calculates inter-rater agreement metrics (Kappa, QWK, adjacent agreement) |        
+| `05_Summary_Evaluation.ipynb` | Live Gradio interface for evaluating student summaries of "The Challenge of Exploring Venus" |                         
+| `06_Refactored_Summary_Evaluation.ipynb` | Refactored version of the summary evaluation pipeline and Gradio interface |
+| `rubrics/` | Four-dimension evaluation rubric (Completeness, Accuracy, Coherence, Conciseness) with behavioral anchors for grades 6–8 |
+| `docs/` | Project bibliography and references |
 | `LICENSE` | MIT License (for code) + CC BY 4.0 (for rubric & documentation) |
 
 ---
