@@ -66,7 +66,7 @@ The system produces JSON-structured outputs with per-dimension scores, reasoning
 ## 🔬 Validation Design
 **Dataset (n = 60)**  
 - ~60 summaries (authentic + synthetic) across quality levels.  
-- Authentic samples from the [**ASAP 2.0: Automated Student Assessment Prize**](https://www.kaggle.com/datasets/lburleigh/asap-2-0) writing corpus; synthetic samples generated using **GPT-4o-Mini** to simulate learner-like error patterns.  
+- Authentic samples from the [**ASAP 2.0: Automated Student Assessment Prize**](https://www.kaggle.com/datasets/lburleigh/asap-2-0) writing corpus; synthetic samples generated using **GPT-4o mini** to simulate learner-like error patterns.  
 
 **Validation Process**  
 1. Calibration and consistency checks by a trained human rater.  
