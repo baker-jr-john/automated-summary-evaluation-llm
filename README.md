@@ -54,9 +54,6 @@ Teachers often face overwhelming grading workloads (e.g., 110–176 students dai
 |------------|-------------|
 | **Model** | Meta Llama 3.1 8B (open-source, run locally on Colab GPU) |
 | **Frameworks** | Python 3.10+, Hugging Face Transformers |
-| **Retrieval (Grounding)** | Sentence Transformers (all-MiniLM-L6-v2) with cosine similarity search |
-| **Interface** | Gradio (student input + feedback)  /  Streamlit (teacher dashboard) |
-| **Storage** | SQLite (for scores, feedback, logs) |
 | **Platform** | Google Colab (Pro Education tier) |
 | **Version Control** | GitHub + comprehensive inline documentation |
 
@@ -115,8 +112,7 @@ Substantial AI–human agreement demonstrating technical feasibility for formati
 1. Load source texts & summaries → embed with Sentence Transformers.  
 2. Construct prompt (f-string template with rubric + few-shot examples).  
 3. Run Llama 3.1 8B via Transformers for step-wise evaluation.  
-4. Parse scores + feedback (JSON/regex).  
-5. Visualize results in Streamlit dashboard.  
+4. Parse scores + feedback (JSON/regex). 
 
 ---
 
