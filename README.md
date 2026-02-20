@@ -13,16 +13,6 @@
   <em>AI-assisted formative feedback for middle-school writing — open-source, transparent, and teacher-guided.</em>
 </p>
 
-<p align="center">
-  <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Open%20in%20Colab-%230077B5.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open in Colab" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/baker-jr-john/automated-summary-evaluation-llm.git">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🧭 Overview
